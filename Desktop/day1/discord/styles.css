@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: lightcyan;
+}
+h1{
+    font-size: 60px;
+    color: rgba(70, 56, 0, 0.575);
+}
+#caption {
+    width: 800px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#para {
+    width: 800px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
